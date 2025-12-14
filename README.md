@@ -36,6 +36,9 @@ The objective of this project is to analyze pizza sales data to gain insights in
 
 ![Screenshot (495)](https://github.com/indradityaa/Pizza-Sales-Analytics-Dashboard/blob/main/Dashboard%20Picture.png)
 
+## Interactive Dashboard
+* <a href="https://github.com/indradityaa/Pizza-Sales-Analytics-Dashboard/blob/main/Dashboard%20Pizza%20Sales.xlsx">Dashboard</a>
+
 ## Project Insights
 
 * Sales performance can be clearly tracked through revenue and order-based KPIs.
